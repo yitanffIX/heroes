@@ -1,7 +1,8 @@
 #Pasos para instalar
 
 ```
-npm install
+yamp install
 
 ```
 
+```nuevos pasos```
